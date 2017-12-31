@@ -7,7 +7,7 @@ $(document).ready(function(){
  */
 
 /* _cards */
-	$.getJSON('./components/_cards.json', function(obj){
+	$.getJSON('./components/cards.json', function(obj){
 
 		for(var k in obj){
 			var rows = obj[k];
