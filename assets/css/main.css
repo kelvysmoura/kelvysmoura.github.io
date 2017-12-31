@@ -1,0 +1,25 @@
+.hide {
+  display: none; }
+
+.mgt-5 {
+  margin-top: 5px; }
+
+.mgt-10 {
+  margin-top: 10px; }
+
+pre {
+  padding: 5px;
+  overflow: auto;
+  font-size: 85%;
+  /*line-height: 1.;*/
+  background-color: #f6f8fa;
+  border-radius: 3px; }
+  pre span {
+    color: #6f42c1; }
+  pre .coment {
+    color: rgba(0, 0, 0, 0.5); }
+
+.font-20 {
+  font-size: 20px; }
+
+/*# sourceMappingURL=main.css.map */

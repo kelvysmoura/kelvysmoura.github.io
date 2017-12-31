@@ -1,0 +1,35 @@
+{
+	"card-dbeasy":{
+		"cardTitle":"DBEasy",
+		"cardSubTitle":"Data Base Easy",
+		"cardText":"Um simples crud PDO que pode lhe poupar tempo fazendo toda parte pesada do banco de dados por você",
+		"cardLink":{
+			"GitHub <i class=\"fa fa-external-link-square\" aria-hidden=\"true\"></i>": {
+				"href":"https://github.com/kelvysmoura/DBEasy",
+				"attr":"target=_blanc"
+			},
+
+			"Documentação": {
+				"href":"#",
+				"attr":"onclick='alert(\"Em breve\")'"
+			}
+		}
+	},
+
+	"card-mtp":{
+		"cardTitle":"Mtp",
+		"cardSubTitle":"Meta Tags Php",
+		"cardText":"Uma classe para auxiliar na criação de meta tags de redes sociais e meta tags seo.",
+		"cardLink":{
+			"GitHub <i class=\"fa fa-external-link-square\" aria-hidden=\"true\"></i>": {
+				"href":"https://github.com/kelvysmoura/metatagsphp",
+				"attr":"target='_blanc'"
+			},
+
+			"Documentação": {
+				"siteUrl": true,
+				"href":"documentation/meta-tags-php.html"
+			}
+		}
+	}
+}
