@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-	var siteUrl = 'https://kelvysmoura.github.io/';
+	var siteUrl = 'http://localhost/git/hub/km/';
 
 /**
  ************************************************************************************** COMPONENTS
