@@ -1,4 +1,11 @@
 $(document).ready(function(){
+
+	$('#toogle-sidebar').click(function(){
+		UIkit.toggle('#aside').toggle().fadeIn();
+	});
+
+
+
 	let = anchor = window.location.hash;
 	if(anchor !== '' && anchor !== undefined){
 		$('section').addClass('uk-hidden');
